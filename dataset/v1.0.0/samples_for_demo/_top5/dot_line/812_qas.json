@@ -1,0 +1,302 @@
+[
+    {
+        "image_index": 812,
+        "color2_name": "--None--",
+        "color1_name": "Cadet Blue",
+        "color1_rgb": [
+            95,
+            158,
+            160
+        ],
+        "question_string": "Does Cadet Blue have the minimum area under the curve?",
+        "color2_id": -1,
+        "color1_id": 6,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 6
+    },
+    {
+        "image_index": 812,
+        "color2_name": "--None--",
+        "color1_name": "Web Gray",
+        "color1_rgb": [
+            128,
+            128,
+            128
+        ],
+        "question_string": "Does Web Gray have the maximum area under the curve?",
+        "color2_id": -1,
+        "color1_id": 39,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 7
+    },
+    {
+        "image_index": 812,
+        "color2_name": "--None--",
+        "color1_name": "Lime Green",
+        "color1_rgb": [
+            50,
+            205,
+            50
+        ],
+        "question_string": "Does Lime Green have the minimum area under the curve?",
+        "color2_id": -1,
+        "color1_id": 54,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 6
+    },
+    {
+        "image_index": 812,
+        "color2_name": "--None--",
+        "color1_name": "Lime Green",
+        "color1_rgb": [
+            50,
+            205,
+            50
+        ],
+        "question_string": "Does Lime Green have the maximum area under the curve?",
+        "color2_id": -1,
+        "color1_id": 54,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 7
+    },
+    {
+        "image_index": 812,
+        "color2_name": "--None--",
+        "color1_name": "Cadet Blue",
+        "color1_rgb": [
+            95,
+            158,
+            160
+        ],
+        "question_string": "Is Cadet Blue the smoothest?",
+        "color2_id": -1,
+        "color1_id": 6,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 8
+    },
+    {
+        "image_index": 812,
+        "color2_name": "--None--",
+        "color1_name": "Web Gray",
+        "color1_rgb": [
+            128,
+            128,
+            128
+        ],
+        "question_string": "Is Web Gray the roughest?",
+        "color2_id": -1,
+        "color1_id": 39,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 9
+    },
+    {
+        "image_index": 812,
+        "color2_name": "--None--",
+        "color1_name": "Lime Green",
+        "color1_rgb": [
+            50,
+            205,
+            50
+        ],
+        "question_string": "Is Lime Green the smoothest?",
+        "color2_id": -1,
+        "color1_id": 54,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 8
+    },
+    {
+        "image_index": 812,
+        "color2_name": "--None--",
+        "color1_name": "Lime Green",
+        "color1_rgb": [
+            50,
+            205,
+            50
+        ],
+        "question_string": "Is Lime Green the roughest?",
+        "color2_id": -1,
+        "color1_id": 54,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 9
+    },
+    {
+        "image_index": 812,
+        "color2_name": "--None--",
+        "color1_name": "Lime Green",
+        "color1_rgb": [
+            50,
+            205,
+            50
+        ],
+        "question_string": "Does Lime Green have the lowest value?",
+        "color2_id": -1,
+        "color1_id": 54,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 10
+    },
+    {
+        "image_index": 812,
+        "color2_name": "--None--",
+        "color1_name": "Web Gray",
+        "color1_rgb": [
+            128,
+            128,
+            128
+        ],
+        "question_string": "Does Web Gray have the lowest value?",
+        "color2_id": -1,
+        "color1_id": 39,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 10
+    },
+    {
+        "image_index": 812,
+        "color2_name": "--None--",
+        "color1_name": "Web Gray",
+        "color1_rgb": [
+            128,
+            128,
+            128
+        ],
+        "question_string": "Does Web Gray have the highest value?",
+        "color2_id": -1,
+        "color1_id": 39,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 11
+    },
+    {
+        "image_index": 812,
+        "color2_name": "--None--",
+        "color1_name": "Lime Green",
+        "color1_rgb": [
+            50,
+            205,
+            50
+        ],
+        "question_string": "Does Lime Green have the highest value?",
+        "color2_id": -1,
+        "color1_id": 54,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 11
+    },
+    {
+        "image_index": 812,
+        "color2_name": "Web Gray",
+        "color1_name": "Lime Green",
+        "color1_rgb": [
+            50,
+            205,
+            50
+        ],
+        "question_string": "Does Lime Green intersect Web Gray?",
+        "color2_id": 39,
+        "color1_id": 54,
+        "answer": 1,
+        "color2_rgb": [
+            128,
+            128,
+            128
+        ],
+        "question_id": 14
+    },
+    {
+        "image_index": 812,
+        "color2_name": "Web Gray",
+        "color1_name": "Lime Green",
+        "color1_rgb": [
+            50,
+            205,
+            50
+        ],
+        "question_string": "Is Lime Green less than Web Gray?",
+        "color2_id": 39,
+        "color1_id": 54,
+        "answer": 0,
+        "color2_rgb": [
+            128,
+            128,
+            128
+        ],
+        "question_id": 12
+    },
+    {
+        "image_index": 812,
+        "color2_name": "Web Gray",
+        "color1_name": "Lime Green",
+        "color1_rgb": [
+            50,
+            205,
+            50
+        ],
+        "question_string": "Is Lime Green greater than Web Gray?",
+        "color2_id": 39,
+        "color1_id": 54,
+        "answer": 0,
+        "color2_rgb": [
+            128,
+            128,
+            128
+        ],
+        "question_id": 13
+    }
+]

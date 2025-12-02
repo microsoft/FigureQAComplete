@@ -1,0 +1,242 @@
+[
+    {
+        "image_index": 442,
+        "color2_name": "--None--",
+        "color1_name": "Dark Salmon",
+        "color1_rgb": [
+            233,
+            150,
+            122
+        ],
+        "question_string": "Does Dark Salmon have the minimum area under the curve?",
+        "color2_id": -1,
+        "color1_id": 24,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 6
+    },
+    {
+        "image_index": 442,
+        "color2_name": "--None--",
+        "color1_name": "Royal Blue",
+        "color1_rgb": [
+            65,
+            105,
+            225
+        ],
+        "question_string": "Does Royal Blue have the maximum area under the curve?",
+        "color2_id": -1,
+        "color1_id": 82,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 7
+    },
+    {
+        "image_index": 442,
+        "color2_name": "--None--",
+        "color1_name": "Dark Salmon",
+        "color1_rgb": [
+            233,
+            150,
+            122
+        ],
+        "question_string": "Does Dark Salmon have the maximum area under the curve?",
+        "color2_id": -1,
+        "color1_id": 24,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 7
+    },
+    {
+        "image_index": 442,
+        "color2_name": "--None--",
+        "color1_name": "Dark Salmon",
+        "color1_rgb": [
+            233,
+            150,
+            122
+        ],
+        "question_string": "Is Dark Salmon the smoothest?",
+        "color2_id": -1,
+        "color1_id": 24,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 8
+    },
+    {
+        "image_index": 442,
+        "color2_name": "--None--",
+        "color1_name": "Royal Blue",
+        "color1_rgb": [
+            65,
+            105,
+            225
+        ],
+        "question_string": "Is Royal Blue the roughest?",
+        "color2_id": -1,
+        "color1_id": 82,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 9
+    },
+    {
+        "image_index": 442,
+        "color2_name": "--None--",
+        "color1_name": "Dark Salmon",
+        "color1_rgb": [
+            233,
+            150,
+            122
+        ],
+        "question_string": "Is Dark Salmon the roughest?",
+        "color2_id": -1,
+        "color1_id": 24,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 9
+    },
+    {
+        "image_index": 442,
+        "color2_name": "--None--",
+        "color1_name": "Dark Salmon",
+        "color1_rgb": [
+            233,
+            150,
+            122
+        ],
+        "question_string": "Does Dark Salmon have the lowest value?",
+        "color2_id": -1,
+        "color1_id": 24,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 10
+    },
+    {
+        "image_index": 442,
+        "color2_name": "--None--",
+        "color1_name": "Royal Blue",
+        "color1_rgb": [
+            65,
+            105,
+            225
+        ],
+        "question_string": "Does Royal Blue have the highest value?",
+        "color2_id": -1,
+        "color1_id": 82,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 11
+    },
+    {
+        "image_index": 442,
+        "color2_name": "--None--",
+        "color1_name": "Dark Salmon",
+        "color1_rgb": [
+            233,
+            150,
+            122
+        ],
+        "question_string": "Does Dark Salmon have the highest value?",
+        "color2_id": -1,
+        "color1_id": 24,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 11
+    },
+    {
+        "image_index": 442,
+        "color2_name": "Royal Blue",
+        "color1_name": "Dark Salmon",
+        "color1_rgb": [
+            233,
+            150,
+            122
+        ],
+        "question_string": "Is Dark Salmon less than Royal Blue?",
+        "color2_id": 82,
+        "color1_id": 24,
+        "answer": 1,
+        "color2_rgb": [
+            65,
+            105,
+            225
+        ],
+        "question_id": 12
+    },
+    {
+        "image_index": 442,
+        "color2_name": "Dark Salmon",
+        "color1_name": "Royal Blue",
+        "color1_rgb": [
+            65,
+            105,
+            225
+        ],
+        "question_string": "Is Royal Blue greater than Dark Salmon?",
+        "color2_id": 24,
+        "color1_id": 82,
+        "answer": 1,
+        "color2_rgb": [
+            233,
+            150,
+            122
+        ],
+        "question_id": 13
+    },
+    {
+        "image_index": 442,
+        "color2_name": "Royal Blue",
+        "color1_name": "Dark Salmon",
+        "color1_rgb": [
+            233,
+            150,
+            122
+        ],
+        "question_string": "Does Dark Salmon intersect Royal Blue?",
+        "color2_id": 82,
+        "color1_id": 24,
+        "answer": 0,
+        "color2_rgb": [
+            65,
+            105,
+            225
+        ],
+        "question_id": 14
+    }
+]

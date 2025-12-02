@@ -1,0 +1,282 @@
+[
+    {
+        "image_index": 801,
+        "color2_name": "--None--",
+        "color1_name": "Black",
+        "color1_rgb": [
+            0,
+            0,
+            0
+        ],
+        "question_string": "Does Black have the minimum area under the curve?",
+        "color2_id": -1,
+        "color1_id": 1,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 6
+    },
+    {
+        "image_index": 801,
+        "color2_name": "--None--",
+        "color1_name": "Dark Magenta",
+        "color1_rgb": [
+            139,
+            0,
+            139
+        ],
+        "question_string": "Does Dark Magenta have the maximum area under the curve?",
+        "color2_id": -1,
+        "color1_id": 19,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 7
+    },
+    {
+        "image_index": 801,
+        "color2_name": "--None--",
+        "color1_name": "Dark Olive",
+        "color1_rgb": [
+            85,
+            107,
+            47
+        ],
+        "question_string": "Does Dark Olive have the minimum area under the curve?",
+        "color2_id": -1,
+        "color1_id": 20,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 6
+    },
+    {
+        "image_index": 801,
+        "color2_name": "--None--",
+        "color1_name": "Dark Olive",
+        "color1_rgb": [
+            85,
+            107,
+            47
+        ],
+        "question_string": "Does Dark Olive have the maximum area under the curve?",
+        "color2_id": -1,
+        "color1_id": 20,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 7
+    },
+    {
+        "image_index": 801,
+        "color2_name": "--None--",
+        "color1_name": "Indian Red",
+        "color1_rgb": [
+            205,
+            92,
+            92
+        ],
+        "question_string": "Is Indian Red the smoothest?",
+        "color2_id": -1,
+        "color1_id": 44,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 8
+    },
+    {
+        "image_index": 801,
+        "color2_name": "--None--",
+        "color1_name": "Dodger Blue",
+        "color1_rgb": [
+            30,
+            144,
+            255
+        ],
+        "question_string": "Is Dodger Blue the roughest?",
+        "color2_id": -1,
+        "color1_id": 33,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 9
+    },
+    {
+        "image_index": 801,
+        "color2_name": "--None--",
+        "color1_name": "Dark Olive",
+        "color1_rgb": [
+            85,
+            107,
+            47
+        ],
+        "question_string": "Is Dark Olive the smoothest?",
+        "color2_id": -1,
+        "color1_id": 20,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 8
+    },
+    {
+        "image_index": 801,
+        "color2_name": "--None--",
+        "color1_name": "Dark Olive",
+        "color1_rgb": [
+            85,
+            107,
+            47
+        ],
+        "question_string": "Is Dark Olive the roughest?",
+        "color2_id": -1,
+        "color1_id": 20,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 9
+    },
+    {
+        "image_index": 801,
+        "color2_name": "--None--",
+        "color1_name": "Dodger Blue",
+        "color1_rgb": [
+            30,
+            144,
+            255
+        ],
+        "question_string": "Does Dodger Blue have the lowest value?",
+        "color2_id": -1,
+        "color1_id": 33,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 10
+    },
+    {
+        "image_index": 801,
+        "color2_name": "--None--",
+        "color1_name": "Dark Magenta",
+        "color1_rgb": [
+            139,
+            0,
+            139
+        ],
+        "question_string": "Does Dark Magenta have the highest value?",
+        "color2_id": -1,
+        "color1_id": 19,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 11
+    },
+    {
+        "image_index": 801,
+        "color2_name": "--None--",
+        "color1_name": "Black",
+        "color1_rgb": [
+            0,
+            0,
+            0
+        ],
+        "question_string": "Does Black have the highest value?",
+        "color2_id": -1,
+        "color1_id": 1,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 11
+    },
+    {
+        "image_index": 801,
+        "color2_name": "Dark Olive",
+        "color1_name": "Indian Red",
+        "color1_rgb": [
+            205,
+            92,
+            92
+        ],
+        "question_string": "Does Indian Red intersect Dark Olive?",
+        "color2_id": 20,
+        "color1_id": 44,
+        "answer": 1,
+        "color2_rgb": [
+            85,
+            107,
+            47
+        ],
+        "question_id": 14
+    },
+    {
+        "image_index": 801,
+        "color2_name": "Dark Olive",
+        "color1_name": "Indian Red",
+        "color1_rgb": [
+            205,
+            92,
+            92
+        ],
+        "question_string": "Is Indian Red less than Dark Olive?",
+        "color2_id": 20,
+        "color1_id": 44,
+        "answer": 0,
+        "color2_rgb": [
+            85,
+            107,
+            47
+        ],
+        "question_id": 12
+    },
+    {
+        "image_index": 801,
+        "color2_name": "Dark Olive",
+        "color1_name": "Indian Red",
+        "color1_rgb": [
+            205,
+            92,
+            92
+        ],
+        "question_string": "Is Indian Red greater than Dark Olive?",
+        "color2_id": 20,
+        "color1_id": 44,
+        "answer": 0,
+        "color2_rgb": [
+            85,
+            107,
+            47
+        ],
+        "question_id": 13
+    }
+]

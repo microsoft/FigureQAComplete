@@ -1,0 +1,20 @@
+question_index,image_index,question_id,question_string,answer
+1000000,0,0,Is Medium Purple the minimum?,0
+1,0,1,Is Orchid the maximum?,0
+2,0,0,Is Blue Violet the minimum?,0
+3,0,1,Is Blue Violet the maximum?,0
+4,0,3,Is Blue Violet greater than Dark Blue?,0
+5,0,2,Is Dark Blue less than Blue Violet?,0
+6,0,3,Is Dark Blue greater than Blue Violet?,0
+7,0,2,Is Blue Violet less than Dark Blue?,0
+8,0,5,Is Orange Red the high median?,0
+9,0,4,Is Forest Green the low median?,0
+10,0,5,Is Orchid the high median?,0
+11,0,4,Is Steel Blue the low median?,0
+12,1,0,Is Light Salmon the minimum?,0
+13,1,1,Is Deep Sky Blue the maximum?,0
+14,1,0,Is Magenta the minimum?,0
+15,1,1,Is Magenta the maximum?,0
+16,1,3,Is Deep Sky Blue greater than Magenta?,0
+17,1,2,Is Magenta less than Deep Sky Blue?,0
+18,1,3,Is Magenta greater than Deep Sky Blue?,0

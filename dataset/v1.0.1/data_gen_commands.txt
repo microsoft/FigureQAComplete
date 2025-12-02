@@ -1,0 +1,44 @@
+------------------------------------------------
+sep 28
+
+[DONE] python synthetic_data_generation.py -c config/common_synthetic_data.yaml -d config/train_synthetic_data.yaml -f sept28_train1.json --vbar 20000 --hbar 20000 --pie 20000 --seed 123
+[DONE] python redo_question_generation.py -s sept28_train1.json -d /data/sept28_init/train1
+
+[DONE] python synthetic_data_generation.py -c config/common_synthetic_data.yaml -d config/train_synthetic_data.yaml -f sept28_train2.json --line 20000 --dot-line 20000 --seed 456
+[DONE] python redo_question_generation.py -s sept28_train2.json -d /data/sept28_init/train2
+
+[DONE] python json_combiner.py -s /data/sept28_init/train1 /data/sept28_init/train2 -d /data/sept28/train1
+[DONE] python fix_annotations.py /data/sept28/original_annotations/train1/annotations.json /data/sept28/train1/annotations.json
+[DONE] python sample_dataset.py -s /data/sept28/train1 -d /data/sept28/sample_train1 -b -n 1000
+
+
+[DONE] python synthetic_data_generation.py -c config/common_synthetic_data.yaml -d config/train_synthetic_data.yaml -f sept28_validation1.json --vbar 4000 --hbar 4000 --pie 4000 --line 4000 --dot-line 4000 --seed 654
+[DONE] python redo_question_generation.py -s sept28_validation1.json -d /data/sept28_init/validation1
+[DONE] python json_combiner.py -s /data/sept28_init/validation1 -d /data/sept28/validation1
+[DONE] python fix_annotations.py /data/sept28/original_annotations/validation1/annotations.json /data/sept28/validation1/annotations.json
+
+[DONE] python synthetic_data_generation.py -c config/common_synthetic_data.yaml -d config/test_synthetic_data.yaml -f sept28_validation2.json --vbar 4000 --hbar 4000 --pie 4000 --line 4000 --dot-line 4000 --seed 321
+[DONE] python redo_question_generation.py -s sept28_validation2.json -d /data/sept28_init/validation2
+[DONE] python json_combiner.py -s /data/sept28_init/validation2 -d /data/sept28/validation2
+[DONE] python fix_annotations.py /data/sept28/original_annotations/validation2/annotations.json /data/sept28/validation2/annotations.json
+
+[DONE] python synthetic_data_generation.py -c config/common_synthetic_data.yaml -d config/train_synthetic_data.yaml -f sept28_test1.json --vbar 4000 --hbar 4000 --pie 4000 --line 4000 --dot-line 4000 --seed 789
+[DONE] python redo_question_generation.py -s sept28_test1.json -d /data/sept28_init/test1
+[DONE] python json_combiner.py -s /data/sept28_init/test1 -d /data/sept28/test1
+[DONE] python fix_annotations.py /data/sept28/original_annotations/test1/annotations.json /data/sept28/test1/annotations.json
+
+[DONE] python synthetic_data_generation.py -c config/common_synthetic_data.yaml -d config/test_synthetic_data.yaml -f sept28_test2.json --vbar 4000 --hbar 4000 --pie 4000 --line 4000 --dot-line 4000 --seed 987
+[DONE] python redo_question_generation.py -s sept28_test2.json -d /data/sept28_init/test2
+[DONE] python json_combiner.py -s /data/sept28_init/test2 -d /data/sept28/test2
+[DONE] python fix_annotations.py /data/sept28/original_annotations/test2/annotations.json /data/sept28/test2/annotations.json
+
+------------------------
+
+verify sample
+remove answers and annotations from the test sets
+add license and readmes
+tarball
+add to git
+upload to azure
+new stats
+

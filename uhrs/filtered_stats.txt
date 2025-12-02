@@ -1,0 +1,94 @@
+ ==== ALL STATS
+accuracy overall = 91.21 %
+Unknown answers out of all = 0.34 %
+wrong answers that are Unknown = 3.91 %
+ ==== STATS by fig
+----- STATS FOR GROUP: dot_line
+accuracy overall = 87.20 %
+Unknown answers out of all = 0.81 %
+wrong answers that are Unknown = 6.31 %
+----- STATS FOR GROUP: hbar_categorical
+accuracy overall = 96.03 %
+Unknown answers out of all = 0.00 %
+wrong answers that are Unknown = 0.00 %
+----- STATS FOR GROUP: line
+accuracy overall = 90.55 %
+Unknown answers out of all = 0.42 %
+wrong answers that are Unknown = 4.49 %
+----- STATS FOR GROUP: pie
+accuracy overall = 88.26 %
+Unknown answers out of all = 0.28 %
+wrong answers that are Unknown = 2.36 %
+----- STATS FOR GROUP: vbar_categorical
+accuracy overall = 95.90 %
+Unknown answers out of all = 0.03 %
+wrong answers that are Unknown = 0.81 %
+ ==== STATS by q
+----- STATS FOR GROUP: cat_greater
+accuracy overall = 96.15 %
+Unknown answers out of all = 0.13 %
+wrong answers that are Unknown = 3.33 %
+----- STATS FOR GROUP: cat_high_median
+accuracy overall = 86.91 %
+Unknown answers out of all = 0.19 %
+wrong answers that are Unknown = 1.47 %
+----- STATS FOR GROUP: cat_less
+accuracy overall = 96.15 %
+Unknown answers out of all = 0.06 %
+wrong answers that are Unknown = 1.67 %
+----- STATS FOR GROUP: cat_low_median
+accuracy overall = 86.39 %
+Unknown answers out of all = 0.13 %
+wrong answers that are Unknown = 0.94 %
+----- STATS FOR GROUP: cat_max
+accuracy overall = 97.18 %
+Unknown answers out of all = 0.14 %
+wrong answers that are Unknown = 4.88 %
+----- STATS FOR GROUP: cat_min
+accuracy overall = 97.06 %
+Unknown answers out of all = 0.00 %
+wrong answers that are Unknown = 0.00 %
+----- STATS FOR GROUP: cont_global_max
+accuracy overall = 93.11 %
+Unknown answers out of all = 0.00 %
+wrong answers that are Unknown = 0.00 %
+----- STATS FOR GROUP: cont_global_min
+accuracy overall = 90.33 %
+Unknown answers out of all = 0.37 %
+wrong answers that are Unknown = 3.80 %
+----- STATS FOR GROUP: cont_greater
+accuracy overall = 89.88 %
+Unknown answers out of all = 0.25 %
+wrong answers that are Unknown = 2.47 %
+----- STATS FOR GROUP: cont_intersect
+accuracy overall = 89.62 %
+Unknown answers out of all = 0.88 %
+wrong answers that are Unknown = 8.43 %
+----- STATS FOR GROUP: cont_less
+accuracy overall = 90.12 %
+Unknown answers out of all = 0.50 %
+wrong answers that are Unknown = 5.06 %
+----- STATS FOR GROUP: cont_max_auc
+accuracy overall = 95.36 %
+Unknown answers out of all = 0.55 %
+wrong answers that are Unknown = 11.90 %
+----- STATS FOR GROUP: cont_min_auc
+accuracy overall = 94.22 %
+Unknown answers out of all = 0.65 %
+wrong answers that are Unknown = 11.32 %
+----- STATS FOR GROUP: cont_roughest
+accuracy overall = 79.52 %
+Unknown answers out of all = 1.10 %
+wrong answers that are Unknown = 5.38 %
+----- STATS FOR GROUP: cont_smoothest
+accuracy overall = 78.02 %
+Unknown answers out of all = 1.21 %
+wrong answers that are Unknown = 5.50 %
+ ==== Figure Breakdown
+Total Figures = 1275
+Total Questions for all Figures = 16876
+Figure = vbar_categorical, count = 263, composition = 20.63 %
+Figure = hbar_categorical, count = 241, composition = 18.90 %
+Figure = line, count = 257, composition = 20.16 %
+Figure = pie, count = 275, composition = 21.57 %
+Figure = dot_line, count = 239, composition = 18.75 %

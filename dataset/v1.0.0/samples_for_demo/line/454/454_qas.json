@@ -1,0 +1,362 @@
+[
+    {
+        "image_index": 454,
+        "color2_name": "--None--",
+        "color1_name": "Red",
+        "color1_rgb": [
+            255,
+            0,
+            0
+        ],
+        "question_string": "Does Red have the minimum area under the curve?",
+        "color2_id": -1,
+        "color1_id": 80,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 6
+    },
+    {
+        "image_index": 454,
+        "color2_name": "--None--",
+        "color1_name": "Khaki",
+        "color1_rgb": [
+            240,
+            230,
+            140
+        ],
+        "question_string": "Does Khaki have the maximum area under the curve?",
+        "color2_id": -1,
+        "color1_id": 46,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 7
+    },
+    {
+        "image_index": 454,
+        "color2_name": "--None--",
+        "color1_name": "Khaki",
+        "color1_rgb": [
+            240,
+            230,
+            140
+        ],
+        "question_string": "Does Khaki have the minimum area under the curve?",
+        "color2_id": -1,
+        "color1_id": 46,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 6
+    },
+    {
+        "image_index": 454,
+        "color2_name": "--None--",
+        "color1_name": "Red",
+        "color1_rgb": [
+            255,
+            0,
+            0
+        ],
+        "question_string": "Does Red have the maximum area under the curve?",
+        "color2_id": -1,
+        "color1_id": 80,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 7
+    },
+    {
+        "image_index": 454,
+        "color2_name": "--None--",
+        "color1_name": "Red",
+        "color1_rgb": [
+            255,
+            0,
+            0
+        ],
+        "question_string": "Is Red the smoothest?",
+        "color2_id": -1,
+        "color1_id": 80,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 8
+    },
+    {
+        "image_index": 454,
+        "color2_name": "--None--",
+        "color1_name": "Gray",
+        "color1_rgb": [
+            190,
+            190,
+            190
+        ],
+        "question_string": "Is Gray the roughest?",
+        "color2_id": -1,
+        "color1_id": 38,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 9
+    },
+    {
+        "image_index": 454,
+        "color2_name": "--None--",
+        "color1_name": "Khaki",
+        "color1_rgb": [
+            240,
+            230,
+            140
+        ],
+        "question_string": "Is Khaki the smoothest?",
+        "color2_id": -1,
+        "color1_id": 46,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 8
+    },
+    {
+        "image_index": 454,
+        "color2_name": "--None--",
+        "color1_name": "Khaki",
+        "color1_rgb": [
+            240,
+            230,
+            140
+        ],
+        "question_string": "Is Khaki the roughest?",
+        "color2_id": -1,
+        "color1_id": 46,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 9
+    },
+    {
+        "image_index": 454,
+        "color2_name": "--None--",
+        "color1_name": "Red",
+        "color1_rgb": [
+            255,
+            0,
+            0
+        ],
+        "question_string": "Does Red have the lowest value?",
+        "color2_id": -1,
+        "color1_id": 80,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 10
+    },
+    {
+        "image_index": 454,
+        "color2_name": "--None--",
+        "color1_name": "Khaki",
+        "color1_rgb": [
+            240,
+            230,
+            140
+        ],
+        "question_string": "Does Khaki have the lowest value?",
+        "color2_id": -1,
+        "color1_id": 46,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 10
+    },
+    {
+        "image_index": 454,
+        "color2_name": "--None--",
+        "color1_name": "Khaki",
+        "color1_rgb": [
+            240,
+            230,
+            140
+        ],
+        "question_string": "Does Khaki have the highest value?",
+        "color2_id": -1,
+        "color1_id": 46,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 11
+    },
+    {
+        "image_index": 454,
+        "color2_name": "--None--",
+        "color1_name": "Red",
+        "color1_rgb": [
+            255,
+            0,
+            0
+        ],
+        "question_string": "Does Red have the highest value?",
+        "color2_id": -1,
+        "color1_id": 80,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 11
+    },
+    {
+        "image_index": 454,
+        "color2_name": "Khaki",
+        "color1_name": "Red",
+        "color1_rgb": [
+            255,
+            0,
+            0
+        ],
+        "question_string": "Is Red less than Khaki?",
+        "color2_id": 46,
+        "color1_id": 80,
+        "answer": 1,
+        "color2_rgb": [
+            240,
+            230,
+            140
+        ],
+        "question_id": 12
+    },
+    {
+        "image_index": 454,
+        "color2_name": "Red",
+        "color1_name": "Khaki",
+        "color1_rgb": [
+            240,
+            230,
+            140
+        ],
+        "question_string": "Is Khaki greater than Red?",
+        "color2_id": 80,
+        "color1_id": 46,
+        "answer": 1,
+        "color2_rgb": [
+            255,
+            0,
+            0
+        ],
+        "question_id": 13
+    },
+    {
+        "image_index": 454,
+        "color2_name": "Red",
+        "color1_name": "Gray",
+        "color1_rgb": [
+            190,
+            190,
+            190
+        ],
+        "question_string": "Does Gray intersect Red?",
+        "color2_id": 80,
+        "color1_id": 38,
+        "answer": 1,
+        "color2_rgb": [
+            255,
+            0,
+            0
+        ],
+        "question_id": 14
+    },
+    {
+        "image_index": 454,
+        "color2_name": "Red",
+        "color1_name": "Gray",
+        "color1_rgb": [
+            190,
+            190,
+            190
+        ],
+        "question_string": "Is Gray less than Red?",
+        "color2_id": 80,
+        "color1_id": 38,
+        "answer": 0,
+        "color2_rgb": [
+            255,
+            0,
+            0
+        ],
+        "question_id": 12
+    },
+    {
+        "image_index": 454,
+        "color2_name": "Red",
+        "color1_name": "Gray",
+        "color1_rgb": [
+            190,
+            190,
+            190
+        ],
+        "question_string": "Is Gray greater than Red?",
+        "color2_id": 80,
+        "color1_id": 38,
+        "answer": 0,
+        "color2_rgb": [
+            255,
+            0,
+            0
+        ],
+        "question_id": 13
+    },
+    {
+        "image_index": 454,
+        "color2_name": "Khaki",
+        "color1_name": "Red",
+        "color1_rgb": [
+            255,
+            0,
+            0
+        ],
+        "question_string": "Does Red intersect Khaki?",
+        "color2_id": 46,
+        "color1_id": 80,
+        "answer": 0,
+        "color2_rgb": [
+            240,
+            230,
+            140
+        ],
+        "question_id": 14
+    }
+]

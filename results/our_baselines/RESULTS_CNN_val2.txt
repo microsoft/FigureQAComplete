@@ -1,0 +1,35 @@
+Processing preds_cnn_and_rn_on_val_sets/preds_validation2_CNNBaseline_FigureQA_model_val_best.csv
+
+---RESULTS:---
+
+preds_cnn_and_rn_on_val_sets/preds_validation2_CNNBaseline_FigureQA_model_val_best.csv ================================================================================
+
+overall accuracy = 57.14%
+
+= by question type ================================================================================ 
+
+total categorical question accuracy = 57.53%
+total continuous question accuracy = 56.69%
+categorical_minimum       (id= 0) accuracy = 57.28%
+categorical_maximum       (id= 1) accuracy = 60.05%
+categorical_less_than     (id= 2) accuracy = 60.73%
+categorical_greater_than  (id= 3) accuracy = 60.90%
+categorical_low_median    (id= 4) accuracy = 53.46%
+categorical_high_median   (id= 5) accuracy = 52.92%
+continuous_minimum_auc    (id= 6) accuracy = 56.84%
+continuous_maximum_auc    (id= 7) accuracy = 58.80%
+continuous_smoothest      (id= 8) accuracy = 55.21%
+continuous_roughest       (id= 9) accuracy = 54.64%
+continuous_global_minimum (id=10) accuracy = 58.09%
+continuous_global_maximum (id=11) accuracy = 59.83%
+continuous_less_than      (id=12) accuracy = 56.69%
+continuous_greater_than   (id=13) accuracy = 56.36%
+continuous_intersect      (id=14) accuracy = 53.54%
+
+= by figure type ================================================================================ 
+
+vbar_categorical                  accuracy = 58.60%
+hbar_categorical                  accuracy = 58.05%
+pie                               accuracy = 55.97%
+line                              accuracy = 56.37%
+dot_line                          accuracy = 56.97%

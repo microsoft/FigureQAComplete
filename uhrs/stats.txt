@@ -1,0 +1,564 @@
+Loading pre-augmented judgement TSV...
+================================================== 
+ ==== ALL STATS
+ ==================================================
+
+accuracy overall = 91.21 %
+
+Unknown answers out of all = 0.34 %
+
+confusion matrix
+[[7817  588   21]
+ [ 837 7576   37]
+ [   0    0    0]] 
+
+right answers that are No = 50.78 %
+wrong answers that are No = 56.44 %
+right answers that are Yes = 49.22 %
+wrong answers that are Yes = 39.65 %
+right answers that are Unknown = 0.00 %
+wrong answers that are Unknown = 3.91 %
+
+precision for No = 90.33 %
+precision for Yes = 92.80 %
+precision for Unknown = 0.00 %
+
+recall for No = 92.77 %
+recall for Yes = 89.66 %
+
+================================================== 
+ ==== STATS by fig
+ ==================================================
+
+----- STATS FOR GROUP: dot_line
+
+accuracy overall = 87.20 %
+
+Unknown answers out of all = 0.81 %
+
+confusion matrix
+[[1686  220   12]
+ [ 255 1767   20]
+ [   0    0    0]] 
+
+right answers that are No = 48.83 %
+wrong answers that are No = 50.30 %
+right answers that are Yes = 51.17 %
+wrong answers that are Yes = 43.39 %
+right answers that are Unknown = 0.00 %
+wrong answers that are Unknown = 6.31 %
+
+precision for No = 86.86 %
+precision for Yes = 88.93 %
+precision for Unknown = 0.00 %
+
+recall for No = 87.90 %
+recall for Yes = 86.53 %
+
+
+----- STATS FOR GROUP: hbar_categorical
+
+accuracy overall = 96.03 %
+
+Unknown answers out of all = 0.00 %
+
+confusion matrix
+[[1399   27    0]
+ [  87 1359    0]
+ [   0    0    0]] 
+
+right answers that are No = 50.73 %
+wrong answers that are No = 76.32 %
+right answers that are Yes = 49.27 %
+wrong answers that are Yes = 23.68 %
+right answers that are Unknown = 0.00 %
+wrong answers that are Unknown = 0.00 %
+
+precision for No = 94.15 %
+precision for Yes = 98.05 %
+precision for Unknown = nan %
+
+recall for No = 98.11 %
+recall for Yes = 93.98 %
+
+
+----- STATS FOR GROUP: line
+
+accuracy overall = 90.55 %
+
+Unknown answers out of all = 0.42 %
+
+confusion matrix
+[[1760  170    5]
+ [ 170 1652   11]
+ [   0    0    0]] 
+
+right answers that are No = 51.58 %
+wrong answers that are No = 47.75 %
+right answers that are Yes = 48.42 %
+wrong answers that are Yes = 47.75 %
+right answers that are Unknown = 0.00 %
+wrong answers that are Unknown = 4.49 %
+
+precision for No = 91.19 %
+precision for Yes = 90.67 %
+precision for Unknown = 0.00 %
+
+recall for No = 90.96 %
+recall for Yes = 90.13 %
+
+
+----- STATS FOR GROUP: pie
+
+accuracy overall = 88.26 %
+
+Unknown answers out of all = 0.28 %
+
+confusion matrix
+[[1454  146    4]
+ [ 227 1418    5]
+ [   0    0    0]] 
+
+right answers that are No = 50.63 %
+wrong answers that are No = 59.42 %
+right answers that are Yes = 49.37 %
+wrong answers that are Yes = 38.22 %
+right answers that are Unknown = 0.00 %
+wrong answers that are Unknown = 2.36 %
+
+precision for No = 86.50 %
+precision for Yes = 90.66 %
+precision for Unknown = 0.00 %
+
+recall for No = 90.65 %
+recall for Yes = 85.94 %
+
+
+----- STATS FOR GROUP: vbar_categorical
+
+accuracy overall = 95.90 %
+
+Unknown answers out of all = 0.03 %
+
+confusion matrix
+[[1518   25    0]
+ [  98 1380    1]
+ [   0    0    0]] 
+
+right answers that are No = 52.38 %
+wrong answers that are No = 79.03 %
+right answers that are Yes = 47.62 %
+wrong answers that are Yes = 20.16 %
+right answers that are Unknown = 0.00 %
+wrong answers that are Unknown = 0.81 %
+
+precision for No = 93.94 %
+precision for Yes = 98.22 %
+precision for Unknown = 0.00 %
+
+recall for No = 98.38 %
+recall for Yes = 93.31 %
+
+================================================== 
+ ==== STATS by q
+ ==================================================
+
+----- STATS FOR GROUP: cat_greater
+
+accuracy overall = 96.15 %
+
+Unknown answers out of all = 0.13 %
+
+confusion matrix
+[[762  16   1]
+ [ 42 736   1]
+ [  0   0   0]] 
+
+right answers that are No = 50.87 %
+wrong answers that are No = 70.00 %
+right answers that are Yes = 49.13 %
+wrong answers that are Yes = 26.67 %
+right answers that are Unknown = 0.00 %
+wrong answers that are Unknown = 3.33 %
+
+precision for No = 94.78 %
+precision for Yes = 97.87 %
+precision for Unknown = 0.00 %
+
+recall for No = 97.82 %
+recall for Yes = 94.48 %
+
+
+----- STATS FOR GROUP: cat_high_median
+
+accuracy overall = 86.91 %
+
+Unknown answers out of all = 0.19 %
+
+confusion matrix
+[[722  56   1]
+ [145 632   2]
+ [  0   0   0]] 
+
+right answers that are No = 53.32 %
+wrong answers that are No = 71.08 %
+right answers that are Yes = 46.68 %
+wrong answers that are Yes = 27.45 %
+right answers that are Unknown = 0.00 %
+wrong answers that are Unknown = 1.47 %
+
+precision for No = 83.28 %
+precision for Yes = 91.86 %
+precision for Unknown = 0.00 %
+
+recall for No = 92.68 %
+recall for Yes = 81.13 %
+
+
+----- STATS FOR GROUP: cat_less
+
+accuracy overall = 96.15 %
+
+Unknown answers out of all = 0.06 %
+
+confusion matrix
+[[764  14   1]
+ [ 45 734   0]
+ [  0   0   0]] 
+
+right answers that are No = 51.00 %
+wrong answers that are No = 75.00 %
+right answers that are Yes = 49.00 %
+wrong answers that are Yes = 23.33 %
+right answers that are Unknown = 0.00 %
+wrong answers that are Unknown = 1.67 %
+
+precision for No = 94.44 %
+precision for Yes = 98.13 %
+precision for Unknown = 0.00 %
+
+recall for No = 98.07 %
+recall for Yes = 94.22 %
+
+
+----- STATS FOR GROUP: cat_low_median
+
+accuracy overall = 86.39 %
+
+Unknown answers out of all = 0.13 %
+
+confusion matrix
+[[725  54   0]
+ [156 621   2]
+ [  0   0   0]] 
+
+right answers that are No = 53.86 %
+wrong answers that are No = 73.58 %
+right answers that are Yes = 46.14 %
+wrong answers that are Yes = 25.47 %
+right answers that are Unknown = 0.00 %
+wrong answers that are Unknown = 0.94 %
+
+precision for No = 82.29 %
+precision for Yes = 92.00 %
+precision for Unknown = 0.00 %
+
+recall for No = 93.07 %
+recall for Yes = 79.72 %
+
+
+----- STATS FOR GROUP: cat_max
+
+accuracy overall = 97.18 %
+
+Unknown answers out of all = 0.14 %
+
+confusion matrix
+[[693  32   1]
+ [  7 718   1]
+ [  0   0   0]] 
+
+right answers that are No = 49.11 %
+wrong answers that are No = 17.07 %
+right answers that are Yes = 50.89 %
+wrong answers that are Yes = 78.05 %
+right answers that are Unknown = 0.00 %
+wrong answers that are Unknown = 4.88 %
+
+precision for No = 99.00 %
+precision for Yes = 95.73 %
+precision for Unknown = 0.00 %
+
+recall for No = 95.45 %
+recall for Yes = 98.90 %
+
+
+----- STATS FOR GROUP: cat_min
+
+accuracy overall = 97.06 %
+
+Unknown answers out of all = 0.00 %
+
+confusion matrix
+[[705  26   0]
+ [ 17 716   0]
+ [  0   0   0]] 
+
+right answers that are No = 49.61 %
+wrong answers that are No = 39.53 %
+right answers that are Yes = 50.39 %
+wrong answers that are Yes = 60.47 %
+right answers that are Unknown = 0.00 %
+wrong answers that are Unknown = 0.00 %
+
+precision for No = 97.65 %
+precision for Yes = 96.50 %
+precision for Unknown = nan %
+
+recall for No = 96.44 %
+recall for Yes = 97.68 %
+
+
+----- STATS FOR GROUP: cont_global_max
+
+accuracy overall = 93.11 %
+
+Unknown answers out of all = 0.00 %
+
+confusion matrix
+[[411  20   0]
+ [ 40 400   0]
+ [  0   0   0]] 
+
+right answers that are No = 50.68 %
+wrong answers that are No = 66.67 %
+right answers that are Yes = 49.32 %
+wrong answers that are Yes = 33.33 %
+right answers that are Unknown = 0.00 %
+wrong answers that are Unknown = 0.00 %
+
+precision for No = 91.13 %
+precision for Yes = 95.24 %
+precision for Unknown = nan %
+
+recall for No = 95.36 %
+recall for Yes = 90.91 %
+
+
+----- STATS FOR GROUP: cont_global_min
+
+accuracy overall = 90.33 %
+
+Unknown answers out of all = 0.37 %
+
+confusion matrix
+[[378  31   0]
+ [ 45 360   3]
+ [  0   0   0]] 
+
+right answers that are No = 51.22 %
+wrong answers that are No = 56.96 %
+right answers that are Yes = 48.78 %
+wrong answers that are Yes = 39.24 %
+right answers that are Unknown = 0.00 %
+wrong answers that are Unknown = 3.80 %
+
+precision for No = 89.36 %
+precision for Yes = 92.07 %
+precision for Unknown = 0.00 %
+
+recall for No = 92.42 %
+recall for Yes = 88.24 %
+
+
+----- STATS FOR GROUP: cont_greater
+
+accuracy overall = 89.88 %
+
+Unknown answers out of all = 0.25 %
+
+confusion matrix
+[[369  29   1]
+ [ 50 350   1]
+ [  0   0   0]] 
+
+right answers that are No = 51.32 %
+wrong answers that are No = 61.73 %
+right answers that are Yes = 48.68 %
+wrong answers that are Yes = 35.80 %
+right answers that are Unknown = 0.00 %
+wrong answers that are Unknown = 2.47 %
+
+precision for No = 88.07 %
+precision for Yes = 92.35 %
+precision for Unknown = 0.00 %
+
+recall for No = 92.48 %
+recall for Yes = 87.28 %
+
+
+----- STATS FOR GROUP: cont_intersect
+
+accuracy overall = 89.62 %
+
+Unknown answers out of all = 0.88 %
+
+confusion matrix
+[[336  61   4]
+ [ 15 381   3]
+ [  0   0   0]] 
+
+right answers that are No = 46.86 %
+wrong answers that are No = 18.07 %
+right answers that are Yes = 53.14 %
+wrong answers that are Yes = 73.49 %
+right answers that are Unknown = 0.00 %
+wrong answers that are Unknown = 8.43 %
+
+precision for No = 95.73 %
+precision for Yes = 86.20 %
+precision for Unknown = 0.00 %
+
+recall for No = 83.79 %
+recall for Yes = 95.49 %
+
+
+----- STATS FOR GROUP: cont_less
+
+accuracy overall = 90.12 %
+
+Unknown answers out of all = 0.50 %
+
+confusion matrix
+[[370  28   1]
+ [ 47 351   3]
+ [  0   0   0]] 
+
+right answers that are No = 51.32 %
+wrong answers that are No = 59.49 %
+right answers that are Yes = 48.68 %
+wrong answers that are Yes = 35.44 %
+right answers that are Unknown = 0.00 %
+wrong answers that are Unknown = 5.06 %
+
+precision for No = 88.73 %
+precision for Yes = 92.61 %
+precision for Unknown = 0.00 %
+
+recall for No = 92.73 %
+recall for Yes = 87.53 %
+
+
+----- STATS FOR GROUP: cont_max_auc
+
+accuracy overall = 95.36 %
+
+Unknown answers out of all = 0.55 %
+
+confusion matrix
+[[431  10   4]
+ [ 27 432   1]
+ [  0   0   0]] 
+
+right answers that are No = 49.94 %
+wrong answers that are No = 64.29 %
+right answers that are Yes = 50.06 %
+wrong answers that are Yes = 23.81 %
+right answers that are Unknown = 0.00 %
+wrong answers that are Unknown = 11.90 %
+
+precision for No = 94.10 %
+precision for Yes = 97.74 %
+precision for Unknown = 0.00 %
+
+recall for No = 96.85 %
+recall for Yes = 93.91 %
+
+
+----- STATS FOR GROUP: cont_min_auc
+
+accuracy overall = 94.22 %
+
+Unknown answers out of all = 0.65 %
+
+confusion matrix
+[[445  16   1]
+ [ 31 419   5]
+ [  0   0   0]] 
+
+right answers that are No = 51.50 %
+wrong answers that are No = 58.49 %
+right answers that are Yes = 48.50 %
+wrong answers that are Yes = 30.19 %
+right answers that are Unknown = 0.00 %
+wrong answers that are Unknown = 11.32 %
+
+precision for No = 93.49 %
+precision for Yes = 96.32 %
+precision for Unknown = 0.00 %
+
+recall for No = 96.32 %
+recall for Yes = 92.09 %
+
+
+----- STATS FOR GROUP: cont_roughest
+
+accuracy overall = 79.52 %
+
+Unknown answers out of all = 1.10 %
+
+confusion matrix
+[[373  76   3]
+ [100 349   7]
+ [  0   0   0]] 
+
+right answers that are No = 51.66 %
+wrong answers that are No = 53.76 %
+right answers that are Yes = 48.34 %
+wrong answers that are Yes = 40.86 %
+right answers that are Unknown = 0.00 %
+wrong answers that are Unknown = 5.38 %
+
+precision for No = 78.86 %
+precision for Yes = 82.12 %
+precision for Unknown = 0.00 %
+
+recall for No = 82.52 %
+recall for Yes = 76.54 %
+
+
+----- STATS FOR GROUP: cont_smoothest
+
+accuracy overall = 78.02 %
+
+Unknown answers out of all = 1.21 %
+
+confusion matrix
+[[333 119   3]
+ [ 70 377   8]
+ [  0   0   0]] 
+
+right answers that are No = 46.90 %
+wrong answers that are No = 35.00 %
+right answers that are Yes = 53.10 %
+wrong answers that are Yes = 59.50 %
+right answers that are Unknown = 0.00 %
+wrong answers that are Unknown = 5.50 %
+
+precision for No = 82.63 %
+precision for Yes = 76.01 %
+precision for Unknown = 0.00 %
+
+recall for No = 73.19 %
+recall for Yes = 82.86 %
+
+
+ ==== Figure Breakdown
+
+Total Figures = 1275
+Total Questions for all Figures = 16876
+Figure = vbar_categorical, count = 263, composition = 20.63 %
+Figure = hbar_categorical, count = 241, composition = 18.90 %
+Figure = line, count = 257, composition = 20.16 %
+Figure = pie, count = 275, composition = 21.57 %
+Figure = dot_line, count = 239, composition = 18.75 %

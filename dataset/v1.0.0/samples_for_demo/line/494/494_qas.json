@@ -1,0 +1,342 @@
+[
+    {
+        "image_index": 494,
+        "color2_name": "--None--",
+        "color1_name": "Seafoam",
+        "color1_rgb": [
+            46,
+            139,
+            87
+        ],
+        "question_string": "Does Seafoam have the minimum area under the curve?",
+        "color2_id": -1,
+        "color1_id": 86,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 6
+    },
+    {
+        "image_index": 494,
+        "color2_name": "--None--",
+        "color1_name": "Olive",
+        "color1_rgb": [
+            128,
+            128,
+            0
+        ],
+        "question_string": "Does Olive have the maximum area under the curve?",
+        "color2_id": -1,
+        "color1_id": 69,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 7
+    },
+    {
+        "image_index": 494,
+        "color2_name": "--None--",
+        "color1_name": "Medium Orchid",
+        "color1_rgb": [
+            186,
+            85,
+            211
+        ],
+        "question_string": "Does Medium Orchid have the minimum area under the curve?",
+        "color2_id": -1,
+        "color1_id": 60,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 6
+    },
+    {
+        "image_index": 494,
+        "color2_name": "--None--",
+        "color1_name": "Medium Orchid",
+        "color1_rgb": [
+            186,
+            85,
+            211
+        ],
+        "question_string": "Does Medium Orchid have the maximum area under the curve?",
+        "color2_id": -1,
+        "color1_id": 60,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 7
+    },
+    {
+        "image_index": 494,
+        "color2_name": "--None--",
+        "color1_name": "Olive",
+        "color1_rgb": [
+            128,
+            128,
+            0
+        ],
+        "question_string": "Is Olive the smoothest?",
+        "color2_id": -1,
+        "color1_id": 69,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 8
+    },
+    {
+        "image_index": 494,
+        "color2_name": "--None--",
+        "color1_name": "Midnight Blue",
+        "color1_rgb": [
+            25,
+            25,
+            112
+        ],
+        "question_string": "Is Midnight Blue the roughest?",
+        "color2_id": -1,
+        "color1_id": 67,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 9
+    },
+    {
+        "image_index": 494,
+        "color2_name": "--None--",
+        "color1_name": "Medium Orchid",
+        "color1_rgb": [
+            186,
+            85,
+            211
+        ],
+        "question_string": "Is Medium Orchid the smoothest?",
+        "color2_id": -1,
+        "color1_id": 60,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 8
+    },
+    {
+        "image_index": 494,
+        "color2_name": "--None--",
+        "color1_name": "Medium Orchid",
+        "color1_rgb": [
+            186,
+            85,
+            211
+        ],
+        "question_string": "Is Medium Orchid the roughest?",
+        "color2_id": -1,
+        "color1_id": 60,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 9
+    },
+    {
+        "image_index": 494,
+        "color2_name": "--None--",
+        "color1_name": "Maroon",
+        "color1_rgb": [
+            176,
+            48,
+            96
+        ],
+        "question_string": "Does Maroon have the lowest value?",
+        "color2_id": -1,
+        "color1_id": 56,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 10
+    },
+    {
+        "image_index": 494,
+        "color2_name": "--None--",
+        "color1_name": "Olive",
+        "color1_rgb": [
+            128,
+            128,
+            0
+        ],
+        "question_string": "Does Olive have the highest value?",
+        "color2_id": -1,
+        "color1_id": 69,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 11
+    },
+    {
+        "image_index": 494,
+        "color2_name": "--None--",
+        "color1_name": "Medium Orchid",
+        "color1_rgb": [
+            186,
+            85,
+            211
+        ],
+        "question_string": "Does Medium Orchid have the highest value?",
+        "color2_id": -1,
+        "color1_id": 60,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 11
+    },
+    {
+        "image_index": 494,
+        "color2_name": "Olive",
+        "color1_name": "Seafoam",
+        "color1_rgb": [
+            46,
+            139,
+            87
+        ],
+        "question_string": "Is Seafoam less than Olive?",
+        "color2_id": 69,
+        "color1_id": 86,
+        "answer": 1,
+        "color2_rgb": [
+            128,
+            128,
+            0
+        ],
+        "question_id": 12
+    },
+    {
+        "image_index": 494,
+        "color2_name": "Seafoam",
+        "color1_name": "Olive",
+        "color1_rgb": [
+            128,
+            128,
+            0
+        ],
+        "question_string": "Is Olive greater than Seafoam?",
+        "color2_id": 86,
+        "color1_id": 69,
+        "answer": 1,
+        "color2_rgb": [
+            46,
+            139,
+            87
+        ],
+        "question_id": 13
+    },
+    {
+        "image_index": 494,
+        "color2_name": "Midnight Blue",
+        "color1_name": "Olive",
+        "color1_rgb": [
+            128,
+            128,
+            0
+        ],
+        "question_string": "Does Olive intersect Midnight Blue?",
+        "color2_id": 67,
+        "color1_id": 69,
+        "answer": 1,
+        "color2_rgb": [
+            25,
+            25,
+            112
+        ],
+        "question_id": 14
+    },
+    {
+        "image_index": 494,
+        "color2_name": "Midnight Blue",
+        "color1_name": "Olive",
+        "color1_rgb": [
+            128,
+            128,
+            0
+        ],
+        "question_string": "Is Olive less than Midnight Blue?",
+        "color2_id": 67,
+        "color1_id": 69,
+        "answer": 0,
+        "color2_rgb": [
+            25,
+            25,
+            112
+        ],
+        "question_id": 12
+    },
+    {
+        "image_index": 494,
+        "color2_name": "Midnight Blue",
+        "color1_name": "Olive",
+        "color1_rgb": [
+            128,
+            128,
+            0
+        ],
+        "question_string": "Is Olive greater than Midnight Blue?",
+        "color2_id": 67,
+        "color1_id": 69,
+        "answer": 0,
+        "color2_rgb": [
+            25,
+            25,
+            112
+        ],
+        "question_id": 13
+    },
+    {
+        "image_index": 494,
+        "color2_name": "Olive",
+        "color1_name": "Seafoam",
+        "color1_rgb": [
+            46,
+            139,
+            87
+        ],
+        "question_string": "Does Seafoam intersect Olive?",
+        "color2_id": 69,
+        "color1_id": 86,
+        "answer": 0,
+        "color2_rgb": [
+            128,
+            128,
+            0
+        ],
+        "question_id": 14
+    }
+]

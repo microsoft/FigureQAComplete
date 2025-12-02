@@ -1,0 +1,242 @@
+[
+    {
+        "image_index": 785,
+        "color2_name": "--None--",
+        "color1_name": "Light Slate",
+        "color1_rgb": [
+            119,
+            136,
+            153
+        ],
+        "question_string": "Is Light Slate the minimum?",
+        "color2_id": -1,
+        "color1_id": 53,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 0
+    },
+    {
+        "image_index": 785,
+        "color2_name": "--None--",
+        "color1_name": "Cornflower",
+        "color1_rgb": [
+            100,
+            149,
+            237
+        ],
+        "question_string": "Is Cornflower the maximum?",
+        "color2_id": -1,
+        "color1_id": 10,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 1
+    },
+    {
+        "image_index": 785,
+        "color2_name": "--None--",
+        "color1_name": "Coral",
+        "color1_rgb": [
+            255,
+            127,
+            80
+        ],
+        "question_string": "Is Coral the minimum?",
+        "color2_id": -1,
+        "color1_id": 9,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 0
+    },
+    {
+        "image_index": 785,
+        "color2_name": "--None--",
+        "color1_name": "Coral",
+        "color1_rgb": [
+            255,
+            127,
+            80
+        ],
+        "question_string": "Is Coral the maximum?",
+        "color2_id": -1,
+        "color1_id": 9,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 1
+    },
+    {
+        "image_index": 785,
+        "color2_name": "Light Slate",
+        "color1_name": "Coral",
+        "color1_rgb": [
+            255,
+            127,
+            80
+        ],
+        "question_string": "Is Coral greater than Light Slate?",
+        "color2_id": 53,
+        "color1_id": 9,
+        "answer": 1,
+        "color2_rgb": [
+            119,
+            136,
+            153
+        ],
+        "question_id": 3
+    },
+    {
+        "image_index": 785,
+        "color2_name": "Coral",
+        "color1_name": "Light Slate",
+        "color1_rgb": [
+            119,
+            136,
+            153
+        ],
+        "question_string": "Is Light Slate less than Coral?",
+        "color2_id": 9,
+        "color1_id": 53,
+        "answer": 1,
+        "color2_rgb": [
+            255,
+            127,
+            80
+        ],
+        "question_id": 2
+    },
+    {
+        "image_index": 785,
+        "color2_name": "Coral",
+        "color1_name": "Light Slate",
+        "color1_rgb": [
+            119,
+            136,
+            153
+        ],
+        "question_string": "Is Light Slate greater than Coral?",
+        "color2_id": 9,
+        "color1_id": 53,
+        "answer": 0,
+        "color2_rgb": [
+            255,
+            127,
+            80
+        ],
+        "question_id": 3
+    },
+    {
+        "image_index": 785,
+        "color2_name": "Light Slate",
+        "color1_name": "Coral",
+        "color1_rgb": [
+            255,
+            127,
+            80
+        ],
+        "question_string": "Is Coral less than Light Slate?",
+        "color2_id": 53,
+        "color1_id": 9,
+        "answer": 0,
+        "color2_rgb": [
+            119,
+            136,
+            153
+        ],
+        "question_id": 2
+    },
+    {
+        "image_index": 785,
+        "color2_name": "--None--",
+        "color1_name": "Coral",
+        "color1_rgb": [
+            255,
+            127,
+            80
+        ],
+        "question_string": "Is Coral the high median?",
+        "color2_id": -1,
+        "color1_id": 9,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 5
+    },
+    {
+        "image_index": 785,
+        "color2_name": "--None--",
+        "color1_name": "Tomato",
+        "color1_rgb": [
+            255,
+            99,
+            71
+        ],
+        "question_string": "Is Tomato the low median?",
+        "color2_id": -1,
+        "color1_id": 95,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 4
+    },
+    {
+        "image_index": 785,
+        "color2_name": "--None--",
+        "color1_name": "Cornflower",
+        "color1_rgb": [
+            100,
+            149,
+            237
+        ],
+        "question_string": "Is Cornflower the high median?",
+        "color2_id": -1,
+        "color1_id": 10,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 5
+    },
+    {
+        "image_index": 785,
+        "color2_name": "--None--",
+        "color1_name": "Light Slate",
+        "color1_rgb": [
+            119,
+            136,
+            153
+        ],
+        "question_string": "Is Light Slate the low median?",
+        "color2_id": -1,
+        "color1_id": 53,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 4
+    }
+]

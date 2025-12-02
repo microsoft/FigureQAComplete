@@ -1,0 +1,242 @@
+[
+    {
+        "image_index": 2,
+        "color2_name": "--None--",
+        "color1_name": "Royal Blue",
+        "color1_rgb": [
+            65,
+            105,
+            225
+        ],
+        "question_string": "Is Royal Blue the minimum?",
+        "color2_id": -1,
+        "color1_id": 82,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 0
+    },
+    {
+        "image_index": 2,
+        "color2_name": "--None--",
+        "color1_name": "Aqua",
+        "color1_rgb": [
+            127,
+            255,
+            212
+        ],
+        "question_string": "Is Aqua the maximum?",
+        "color2_id": -1,
+        "color1_id": 0,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 1
+    },
+    {
+        "image_index": 2,
+        "color2_name": "--None--",
+        "color1_name": "Midnight Blue",
+        "color1_rgb": [
+            25,
+            25,
+            112
+        ],
+        "question_string": "Is Midnight Blue the minimum?",
+        "color2_id": -1,
+        "color1_id": 67,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 0
+    },
+    {
+        "image_index": 2,
+        "color2_name": "--None--",
+        "color1_name": "Midnight Blue",
+        "color1_rgb": [
+            25,
+            25,
+            112
+        ],
+        "question_string": "Is Midnight Blue the maximum?",
+        "color2_id": -1,
+        "color1_id": 67,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 1
+    },
+    {
+        "image_index": 2,
+        "color2_name": "Midnight Blue",
+        "color1_name": "Aqua",
+        "color1_rgb": [
+            127,
+            255,
+            212
+        ],
+        "question_string": "Is Aqua greater than Midnight Blue?",
+        "color2_id": 67,
+        "color1_id": 0,
+        "answer": 1,
+        "color2_rgb": [
+            25,
+            25,
+            112
+        ],
+        "question_id": 3
+    },
+    {
+        "image_index": 2,
+        "color2_name": "Aqua",
+        "color1_name": "Midnight Blue",
+        "color1_rgb": [
+            25,
+            25,
+            112
+        ],
+        "question_string": "Is Midnight Blue less than Aqua?",
+        "color2_id": 0,
+        "color1_id": 67,
+        "answer": 1,
+        "color2_rgb": [
+            127,
+            255,
+            212
+        ],
+        "question_id": 2
+    },
+    {
+        "image_index": 2,
+        "color2_name": "Aqua",
+        "color1_name": "Midnight Blue",
+        "color1_rgb": [
+            25,
+            25,
+            112
+        ],
+        "question_string": "Is Midnight Blue greater than Aqua?",
+        "color2_id": 0,
+        "color1_id": 67,
+        "answer": 0,
+        "color2_rgb": [
+            127,
+            255,
+            212
+        ],
+        "question_id": 3
+    },
+    {
+        "image_index": 2,
+        "color2_name": "Midnight Blue",
+        "color1_name": "Aqua",
+        "color1_rgb": [
+            127,
+            255,
+            212
+        ],
+        "question_string": "Is Aqua less than Midnight Blue?",
+        "color2_id": 67,
+        "color1_id": 0,
+        "answer": 0,
+        "color2_rgb": [
+            25,
+            25,
+            112
+        ],
+        "question_id": 2
+    },
+    {
+        "image_index": 2,
+        "color2_name": "--None--",
+        "color1_name": "Purple",
+        "color1_rgb": [
+            160,
+            32,
+            240
+        ],
+        "question_string": "Is Purple the high median?",
+        "color2_id": -1,
+        "color1_id": 77,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 5
+    },
+    {
+        "image_index": 2,
+        "color2_name": "--None--",
+        "color1_name": "Purple",
+        "color1_rgb": [
+            160,
+            32,
+            240
+        ],
+        "question_string": "Is Purple the low median?",
+        "color2_id": -1,
+        "color1_id": 77,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 4
+    },
+    {
+        "image_index": 2,
+        "color2_name": "--None--",
+        "color1_name": "Royal Blue",
+        "color1_rgb": [
+            65,
+            105,
+            225
+        ],
+        "question_string": "Is Royal Blue the high median?",
+        "color2_id": -1,
+        "color1_id": 82,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 5
+    },
+    {
+        "image_index": 2,
+        "color2_name": "--None--",
+        "color1_name": "Tomato",
+        "color1_rgb": [
+            255,
+            99,
+            71
+        ],
+        "question_string": "Is Tomato the low median?",
+        "color2_id": -1,
+        "color1_id": 95,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 4
+    }
+]

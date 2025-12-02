@@ -1,0 +1,242 @@
+[
+    {
+        "image_index": 345,
+        "color2_name": "--None--",
+        "color1_name": "Black",
+        "color1_rgb": [
+            0,
+            0,
+            0
+        ],
+        "question_string": "Is Black the minimum?",
+        "color2_id": -1,
+        "color1_id": 1,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 0
+    },
+    {
+        "image_index": 345,
+        "color2_name": "--None--",
+        "color1_name": "Light Coral",
+        "color1_rgb": [
+            240,
+            128,
+            128
+        ],
+        "question_string": "Is Light Coral the maximum?",
+        "color2_id": -1,
+        "color1_id": 48,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 1
+    },
+    {
+        "image_index": 345,
+        "color2_name": "--None--",
+        "color1_name": "Yellow",
+        "color1_rgb": [
+            255,
+            255,
+            0
+        ],
+        "question_string": "Is Yellow the minimum?",
+        "color2_id": -1,
+        "color1_id": 98,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 0
+    },
+    {
+        "image_index": 345,
+        "color2_name": "--None--",
+        "color1_name": "Yellow",
+        "color1_rgb": [
+            255,
+            255,
+            0
+        ],
+        "question_string": "Is Yellow the maximum?",
+        "color2_id": -1,
+        "color1_id": 98,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 1
+    },
+    {
+        "image_index": 345,
+        "color2_name": "Yellow",
+        "color1_name": "Tan",
+        "color1_rgb": [
+            210,
+            180,
+            140
+        ],
+        "question_string": "Is Tan greater than Yellow?",
+        "color2_id": 98,
+        "color1_id": 93,
+        "answer": 1,
+        "color2_rgb": [
+            255,
+            255,
+            0
+        ],
+        "question_id": 3
+    },
+    {
+        "image_index": 345,
+        "color2_name": "Tan",
+        "color1_name": "Yellow",
+        "color1_rgb": [
+            255,
+            255,
+            0
+        ],
+        "question_string": "Is Yellow less than Tan?",
+        "color2_id": 93,
+        "color1_id": 98,
+        "answer": 1,
+        "color2_rgb": [
+            210,
+            180,
+            140
+        ],
+        "question_id": 2
+    },
+    {
+        "image_index": 345,
+        "color2_name": "Tan",
+        "color1_name": "Yellow",
+        "color1_rgb": [
+            255,
+            255,
+            0
+        ],
+        "question_string": "Is Yellow greater than Tan?",
+        "color2_id": 93,
+        "color1_id": 98,
+        "answer": 0,
+        "color2_rgb": [
+            210,
+            180,
+            140
+        ],
+        "question_id": 3
+    },
+    {
+        "image_index": 345,
+        "color2_name": "Yellow",
+        "color1_name": "Tan",
+        "color1_rgb": [
+            210,
+            180,
+            140
+        ],
+        "question_string": "Is Tan less than Yellow?",
+        "color2_id": 98,
+        "color1_id": 93,
+        "answer": 0,
+        "color2_rgb": [
+            255,
+            255,
+            0
+        ],
+        "question_id": 2
+    },
+    {
+        "image_index": 345,
+        "color2_name": "--None--",
+        "color1_name": "Tan",
+        "color1_rgb": [
+            210,
+            180,
+            140
+        ],
+        "question_string": "Is Tan the high median?",
+        "color2_id": -1,
+        "color1_id": 93,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 5
+    },
+    {
+        "image_index": 345,
+        "color2_name": "--None--",
+        "color1_name": "Tan",
+        "color1_rgb": [
+            210,
+            180,
+            140
+        ],
+        "question_string": "Is Tan the low median?",
+        "color2_id": -1,
+        "color1_id": 93,
+        "answer": 1,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 4
+    },
+    {
+        "image_index": 345,
+        "color2_name": "--None--",
+        "color1_name": "Black",
+        "color1_rgb": [
+            0,
+            0,
+            0
+        ],
+        "question_string": "Is Black the high median?",
+        "color2_id": -1,
+        "color1_id": 1,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 5
+    },
+    {
+        "image_index": 345,
+        "color2_name": "--None--",
+        "color1_name": "Light Coral",
+        "color1_rgb": [
+            240,
+            128,
+            128
+        ],
+        "question_string": "Is Light Coral the low median?",
+        "color2_id": -1,
+        "color1_id": 48,
+        "answer": 0,
+        "color2_rgb": [
+            -1,
+            -1,
+            -1
+        ],
+        "question_id": 4
+    }
+]

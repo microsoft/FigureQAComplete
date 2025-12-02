@@ -1,0 +1,27 @@
+
+sep 8
+
+[DONE] python synthetic_data_generation.py -c config/common_synthetic_data.yaml -d config/train_synthetic_data.yaml -f sept8_train1.json --vbar 20000 --hbar 20000 --pie 20000 --seed 123
+[DONE] python generation.py -s sept8_train1.json -d /data/sept8_init/train1
+
+[DONE] python synthetic_data_generation.py -c config/common_synthetic_data.yaml -d config/train_synthetic_data.yaml -f sept8_train2.json --line 20000 --dot-line 20000 --seed 456
+[DONE] python generation.py -s sept8_train2.json -d /data/sept8_init/train2
+
+[DONE] python json_combiner.py -s /data/sept8_init/train1 /data/sept8_init/train2 -d /data/sept8/train1
+
+
+[DONE] python synthetic_data_generation.py -c config/common_synthetic_data.yaml -d config/train_synthetic_data.yaml -f sept8_test1.json --vbar 4000 --hbar 4000 --pie 4000 --line 4000 --dot-line 4000 --seed 789
+[DONE] python generation.py -s sept8_test1.json -d /data/sept8_init/test1
+python json_combiner.py -s /data/sept8_init/test1 -d /data/sept8/test1
+
+[DONE] python synthetic_data_generation.py -c config/common_synthetic_data.yaml -d config/test_synthetic_data.yaml -f sept8_test2.json --vbar 4000 --hbar 4000 --pie 4000 --line 4000 --dot-line 4000 --seed 987
+[DONE] python generation.py -s sept8_test2.json -d /data/sept8_init/test2
+python json_combiner.py -s /data/sept8_init/test2 -d /data/sept8/test2
+
+[DONE] python synthetic_data_generation.py -c config/common_synthetic_data.yaml -d config/train_synthetic_data.yaml -f sept8_validation1.json --vbar 4000 --hbar 4000 --pie 4000 --line 4000 --dot-line 4000 --seed 654
+python generation.py -s sept8_validation1.json -d /data/sept8_init/validation1
+python json_combiner.py -s /data/sept8_init/validation1 -d /data/sept8/validation1
+
+[DONE] python synthetic_data_generation.py -c config/common_synthetic_data.yaml -d config/test_synthetic_data.yaml -f sept8_validation2.json --vbar 4000 --hbar 4000 --pie 4000 --line 4000 --dot-line 4000 --seed 321
+python generation.py -s sept8_validation2.json -d /data/sept8_init/validation2
+python json_combiner.py -s /data/sept8_init/validation2 -d /data/sept8/validation2
